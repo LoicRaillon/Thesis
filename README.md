@@ -2,7 +2,7 @@
 
 **Loïc Raillon, Experimental Identification of Physical Thermal Models for Demand Response and Performance Evaluation, INSA de Lyon, 2018** 
 
-The PhD thesis is accessible at: *link* 
+The PhD thesis is accessible at: https://www.researchgate.net/publication/326058713_Experimental_Identification_of_Physical_Thermal_Models_for_Demand_Response_and_Performance_Evaluation
 
 All the code used in the thesis are written in MATLAB (R2017.b) and are available here.
 
